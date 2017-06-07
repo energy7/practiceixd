@@ -4,6 +4,14 @@ html {
   font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
+.post li a, .post p a {
+  color: #222;
+  text-decoration: none;
+  font-weight: 700;
+  border-bottom: 1px solid #ddd;
+}
+
+
 .sidebar-about h1 {
   letter-spacing: 2px;
 }
