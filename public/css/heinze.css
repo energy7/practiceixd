@@ -1,5 +1,9 @@
 /* theme mods */
 
+html {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
 .sidebar-about h1 {
   letter-spacing: 2px;
 }
