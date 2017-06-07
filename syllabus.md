@@ -69,11 +69,11 @@ Our class Dropbox contains a Resources folder with the recommended tools and rea
 
 ### Required Tools
 Please download and create accounts on these apps before the first class:
-1. Sketch ($99, click Education to get 50% off if you submit your student ID)
-2. POP by Marvel (free, get the iPhone or Android app and install the Sketch plugin)
-3. Google Suite (provided by SVA) — for calendar, documents, diagrams
-4. Dropbox  (provided by SVA) — for books, team folders, individual folders
-5. Slack (provided by SVA) — for group chat 
+* Sketch ($99, click Education to get 50% off if you submit your student ID)
+* POP by Marvel (free, get the iPhone or Android app and install the Sketch plugin)
+* Google Suite (provided by SVA) — for calendar, documents, diagrams
+* Dropbox  (provided by SVA) — for books, team folders, individual folders
+* Slack (provided by SVA) — for group chat 
  
 Please bring sketching materials to every class (pencil, pen, sharpie, paper)
 

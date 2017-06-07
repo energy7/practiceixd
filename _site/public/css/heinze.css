@@ -1,0 +1,33 @@
+/* theme mods */
+
+.sidebar-about h1 {
+  letter-spacing: 2px;
+}
+
+
+ol {
+  list-style: none;
+  counter-reset: item;
+  margin: 0;
+  padding: 0;
+}
+
+  ol > li {
+    margin-bottom: 2em;
+    position: relative;
+    margin-left: 4em;
+  }
+  
+    ol > li:before {
+      display: inline-block;
+      content: counter(item);
+      counter-increment: item;
+      font-family: "Abril Fatface", serif;
+      font-size: 5em;
+      color: #222;
+      position: absolute;
+      right: 100%;
+      top: 0;
+      line-height: .85;
+      padding-right: 25px;
+    }
