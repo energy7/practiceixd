@@ -4,13 +4,17 @@ html {
   font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
-.post li a, .post p a {
+.post li a, .post p a, .page li a, .page p a {
   color: #222;
   text-decoration: none;
   font-weight: 700;
   border-bottom: 1px solid #ddd;
 }
 
+.post li a:hover, .post p a:hover, .page li a:hover, .page p a:hover {
+    border-width: 2px;
+    border-color: #222;
+}
 
 .sidebar-about h1 {
   letter-spacing: 2px;
