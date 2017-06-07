@@ -3,6 +3,7 @@ layout: post
 title:  "Audience"
 date:   2017-07-10 18:00:00 -0400
 categories: lecture homework
+visible: 0
 ---
 
 respect, responsibility, transparency, context, outreach

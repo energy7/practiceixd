@@ -5,6 +5,7 @@ title: Home(work)
 
 <div class="posts">
   {% for post in site.posts %}
+  {% if post.visible== 1 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -16,6 +17,7 @@ title: Home(work)
 
     {{ post.content }}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
