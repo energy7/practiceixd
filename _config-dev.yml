@@ -1,0 +1,5 @@
+# in Terminal, you can load this localhost url variable using:
+# jekyll serve --config _config.yml,_config-dev.yml
+
+title: DEBUG Erica Heinz
+url: 'http://localhost:4000/'
