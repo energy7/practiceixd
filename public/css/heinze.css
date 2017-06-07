@@ -4,6 +4,9 @@
   letter-spacing: 2px;
 }
 
+h2 {
+  margin-top: 2rem;
+}
 
 ol {
   list-style: none;
@@ -16,6 +19,7 @@ ol {
     margin-bottom: 2em;
     position: relative;
     margin-left: 4em;
+    min-height: 4rem;
   }
   
     ol > li:before {
@@ -23,11 +27,13 @@ ol {
       content: counter(item);
       counter-increment: item;
       font-family: "Abril Fatface", serif;
-      font-size: 5em;
+      font-size: 5rem;
       color: #222;
       position: absolute;
       right: 100%;
       top: 0;
       line-height: .85;
-      padding-right: 25px;
+      width: 3rem;
+      padding-right: 1rem;
+      text-align: center;
     }
