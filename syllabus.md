@@ -46,7 +46,7 @@ They will create:
 30% homework and reading  
 40% final critique  
  
-The project for the class is to design an onboarding flow for Tech Solidarity, a grassroots group whose goal is to better connect tech workers with the communities they live in. You and a partner will work to create a responsive experience that serves and builds their community.
+The project for the class is to design an onboarding flow for [Tech Solidarity](https://techsolidarity.org), a grassroots group whose goal is to better connect tech workers with the communities they live in. You and a partner will work to create a responsive experience that serves and builds their community.
  
 (If you volunteer with another organization and would like to design for that group instead, that is a possibility. Email me before the first class.)
  
@@ -69,31 +69,32 @@ Our class Dropbox contains a Resources folder with the recommended tools and rea
 
 ### Required Tools
 Please download and create accounts on these apps before the first class:
-* Sketch ($99, click Education to get 50% off if you submit your student ID)
-* POP by Marvel (free, get the iPhone or Android app and install the Sketch plugin)
-* Google Suite (provided by SVA) — for calendar, documents, diagrams
-* Dropbox  (provided by SVA) — for books, team folders, individual folders
-* Slack (provided by SVA) — for group chat 
+* [Sketch](https://www.sketchapp.com/) ($99, click Education to get 50% off if you submit your student ID)
+* [POP by Marvel](https://marvelapp.com/pop/) (free, get the iPhone or Android app and install the [Sketch plugin](https://marvelapp.com/prototype-with-sketch/))
+* [Google Suite](https://www.google.com/) (provided by SVA) — for calendar, documents, diagrams
+* [Dropbox](https://www.dropbox.com) (provided by SVA) — for books, team folders, individual folders, backups
+* [Slack](https://slack.com/) (provided by SVA) — for group chat 
  
 Please bring sketching materials to every class (pencil, pen, sharpie, paper)
 
 ### Recommended Tools
-* UX Wireflows kit ($38)
-* UX Power Tools kit ($80, but use my link for 50% off)
+* [UX Wireflows](https://ui8.net/products/ux-kits-ui-wireflows) kit ($38)
+* [UX Power Tools](https://www.uxpower.tools/) kit ($80, but use [my link for 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
 
 ### Required Reading
-* Aarron Walter: _Designing for Emotion_ (98 pgs)
-* Dan Saffer: _Microinteractions: Designing with Details_ (170 pgs)
+There are two copies of these books in the SVA library if you prefer to read them there.
+* Aarron Walter: [_Designing for Emotion_](https://abookapart.com/products/designing-for-emotion) (98 pgs)
+* Dan Saffer: [_Microinteractions: Designing with Details_](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923) (170 pgs)
 * additional articles assigned in each class
 
 ### Recommended Reading
-* Don Norman: _The Design of Everyday Things (Revised & Expanded Edition)_
-* IDEO: _The Field Guide to Human-Centered-Design_ 
-* Louis Rosenfeld: _Information Architecture for the Web and Beyond (4th Edition)_
+* Don Norman: [_The Design of Everyday Things (Revised & Expanded Edition)_](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+* IDEO: [_The Field Guide to Human-Centered-Design_](http://www.designkit.org/resources/1) 
+* Louis Rosenfeld: [_Information Architecture for the Web and Beyond (4th Edition)_](http://shop.oreilly.com/product/0636920034674.do)
 
 ## Professor
  
 Erica Heinz  
-ericaheinz.com  
+[ericaheinz.com](http://ericaheinz.com/)  
 eh@ericaheinz.com  
 Office hours by appointment  
