@@ -62,16 +62,20 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 ###### 3: Plan 
 
-### Activities
+### Research
 
+* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
 * [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
+* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
+* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
+* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
 
 ### Content
 
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621) — find lots of questions and outlines  
+* [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
 * [Coggle](https://coggle.it/?lang=en-US) — make mind maps that people actually like to look at
 * [UX Wireflows kit](https://ui8.net/products/ux-kits-ui-wireflows) — start mapping flows quickly and clearly  
-* [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
 
 
 ###### 4: Find 
@@ -97,32 +101,30 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 ### Applications
 
 * [IconJar](https://geticonjar.com/) — store and search all your icons   
-* [Sketch Toolbox](http://sketchtoolbox.com/) — find and keep track of plugins  
+* [Stark](http://www.getstark.co/) — add a color-blind simulator and contrast checker for Sketch
+* [Invision Craft](https://www.invisionapp.com/craft) — get dummy images, text, and prototypes within Sketch
+* [Zeplin](https://zeplin.io/) — export style guides from Sketch
+* [Sketch Toolbox](http://sketchtoolbox.com/) — find and keep track of plugins 
 
 
 ### Templates
-* [UX Power Tools kit](https://www.uxpower.tools/) — Sketch starter file ([use my link for 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
+* [UX Power Tools kit](https://www.uxpower.tools/) — start with a systematized Sketch file ([get 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
 
 
 ###### 6: Test
 
-### General
+### Usability
 
-* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered options for each phase
-* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
 * [Usability Hub](https://usabilityhub.com/) — set up recall, click, question, navigation, or preference tests  
 * [Verify](http://verifyapp.com/) — create preference, yes/no, click, multiclick, memory, annotation, mood, or label tests
 
-### In-Person
+### Accessibility
 
-* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
+* [The a11y Project](http://a11yproject.com) — confirm you pass the recommended checklists  
+* [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) — enter hex codes and check contrast levels
+* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
 
-### Remote
-
-* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
-
-
-
+ 
 ###### 7: Keep in Touch! 
 
 
