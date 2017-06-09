@@ -66,6 +66,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 * [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
 * [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
+* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
 * [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
 * [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
 * [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
@@ -113,6 +114,10 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 ###### 6: Test
 
+### Principles
+
+* [IXD Checklist](http://ixdchecklist.com/) — evaluate affordances, feedback, simplicity, structure, consistency, tolerance, and accessibility
+
 ### Usability
 
 * [Usability Hub](https://usabilityhub.com/) — set up recall, click, question, navigation, or preference tests  
@@ -122,7 +127,6 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 * [The a11y Project](http://a11yproject.com) — confirm you pass the recommended checklists  
 * [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) — enter hex codes and check contrast levels
-* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
 
  
 ###### 7: Keep in Touch! 
