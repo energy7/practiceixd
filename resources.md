@@ -62,7 +62,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 ###### 3: Plan 
 
-### Research
+### User Research
 
 * [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
 * [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
@@ -75,8 +75,12 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621) — find lots of questions and outlines  
 * [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
+
+### Architecture
+
 * [Coggle](https://coggle.it/?lang=en-US) — make mind maps that people actually like to look at
-* [UX Wireflows kit](https://ui8.net/products/ux-kits-ui-wireflows) — start mapping flows quickly and clearly  
+* [Google Drawings](https://docs.google.com/drawings/create) — diagram sites or flows
+* [UX Wireflows kit](https://ui8.net/products/ux-kits-ui-wireflows) — create a birds-eye view of a flow or whole site  
 
 
 ###### 4: Find 
@@ -151,5 +155,5 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 (and follow/subscribe to your favorite sites above)
 
-## ✌
+## [✌](https://twitter.com/ericaheinz)
 
