@@ -41,6 +41,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [Empty States](http://emptystat.es/) — don't forget the null states  
 * [Use Your Interface](http://useyourinterface.com/) — study unique ideas  
 * [Little Big Details](http://littlebigdetails.com/) — enjoy charming details
+* [Codepen](https://codepen.io/) — join the cutting-edge community code gallery
 
 ### Responsive Layouts
 
@@ -57,7 +58,6 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 ### More
 
 * [35 of My Favorite Websites for Design Inspiration](http://jessicapaoli.com/2016/35-of-my-favorite-websites-for-design-inspiration/) — bookmark this broad list of resources
-* [Codepen](https://codepen.io/) — join the cutting-edge community code gallery
 
 
 ###### 3: Plan 
