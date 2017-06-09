@@ -44,7 +44,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621) — find lots of questions and outlines  
 * [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
 
-### Navigation
+### Experience
 
 * [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
 * [Coggle](https://coggle.it/?lang=en-US) — make mind maps that people actually like to look at
