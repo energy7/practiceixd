@@ -4,11 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-SVA SUMMER INTENSIVE  
+SVA SUMMER INTENSIVE 2017 
 
-# The Practice of IxD 
+###### The Practice of IxD 
 
-Mondays, 6:00–8:50 PM, July 10 – August 7 2017
+Mondays, 6:00–8:50 PM, July 10 – August 7
 
 ## Course Description
  
