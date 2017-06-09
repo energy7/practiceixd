@@ -43,7 +43,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [Little Big Details](http://littlebigdetails.com/) — enjoy charming details
 * [Codepen](https://codepen.io/) — join the cutting-edge community code gallery
 
-### Responsive Layouts
+### RWD Patterns
 
 * [Responsive Web Design ](https://responsivedesign.is) — browse lots of examples, patterns, and resources  
 * [Media Queries](https://mediaqueri.es/) — visualize responsive layouts  
