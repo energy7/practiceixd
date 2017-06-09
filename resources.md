@@ -29,7 +29,30 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [Intercom](https://www.intercom.com/books) — read free books from the spiking startup
 
 
-###### 2: Look
+###### 2: Define 
+
+### Users
+
+* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
+* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
+* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
+* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
+* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
+
+### Content
+
+* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621) — find lots of questions and outlines  
+* [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
+
+### Navigation
+
+* [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
+* [Coggle](https://coggle.it/?lang=en-US) — make mind maps that people actually like to look at
+* [Google Drawings](https://docs.google.com/drawings/create) — diagram sites or flows
+* [UX Wireflows kit](https://ui8.net/products/ux-kits-ui-wireflows) — create a birds-eye view of a flow or whole site  
+
+
+###### 3: Look
 
 ### UX/UI Patterns
 
@@ -58,29 +81,6 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 ### More
 
 * [35 of My Favorite Websites for Design Inspiration](http://jessicapaoli.com/2016/35-of-my-favorite-websites-for-design-inspiration/) — bookmark this broad list of resources
-
-
-###### 3: Plan 
-
-### User Research
-
-* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
-* [UX Cards](http://nform.com/cards/) — get exercises to do with your team or client  
-* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
-* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
-* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
-* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
-
-### Content
-
-* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621) — find lots of questions and outlines  
-* [Gather Content](https://gathercontent.com/) — keep track of who owes you what  
-
-### Architecture
-
-* [Coggle](https://coggle.it/?lang=en-US) — make mind maps that people actually like to look at
-* [Google Drawings](https://docs.google.com/drawings/create) — diagram sites or flows
-* [UX Wireflows kit](https://ui8.net/products/ux-kits-ui-wireflows) — create a birds-eye view of a flow or whole site  
 
 
 ###### 4: Find 
