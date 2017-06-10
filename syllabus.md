@@ -65,7 +65,7 @@ Final critiques will be roughly 10-15 minutes for each group to present and rece
  
 
 ## Tools & Resources
-Our class Dropbox contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
+Our class drive contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
 
 ### Required Tools
 Please download and create accounts on these apps before the first class:

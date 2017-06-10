@@ -101,7 +101,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 
 
-###### 5: Design
+###### 5: Make
 
 ### Applications
 
