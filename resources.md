@@ -60,10 +60,10 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [User Onboard](http://www.useronboard.com/) — read teardowns of app onboarding  
 * [Pattern Tap](http://zurb.com/patterntap) — search website component examples
 * [PTTRNS](https://pttrns.com/) — search lots of mobile patterns  
+* [Little Big Details](http://littlebigdetails.com/) — enjoy charming details
+* [Use Your Interface](http://useyourinterface.com/) — study unique ideas  
 * [Hover States](https://hoverstat.es/) — browse more unusual selection of patterns  
 * [Empty States](http://emptystat.es/) — don't forget the null states  
-* [Use Your Interface](http://useyourinterface.com/) — study unique ideas  
-* [Little Big Details](http://littlebigdetails.com/) — enjoy charming details
 * [Codepen](https://codepen.io/) — join the cutting-edge community code gallery
 
 ### RWD Patterns
@@ -116,7 +116,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [UX Power Tools kit](https://www.uxpower.tools/) — start with a systematized Sketch file ([get 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
 
 
-###### 6: Test
+###### 6: Judge
 
 ### Principles
 

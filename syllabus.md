@@ -65,7 +65,7 @@ Final critiques will be roughly 10-15 minutes for each group to present and rece
  
 
 ## Tools & Resources
-Our class drive contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
+Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
 
 ### Required Tools
 Please download and create accounts on these apps before the first class:
@@ -74,7 +74,7 @@ Please download and create accounts on these apps before the first class:
 * [Google Suite](https://www.google.com/) (provided by SVA) — for diagrams, team folders, individual folders, backups
 * [Slack](https://slack.com/) (provided by SVA) — for group chat 
  
-Please bring sketching materials to every class (pencil, pen, sharpie, paper)
+Please bring sketching materials to every class (pencil, pen, marker, paper)
 
 ### Recommended Tools
 * [UX Wireflows](https://ui8.net/products/ux-kits-ui-wireflows) kit ($38)
