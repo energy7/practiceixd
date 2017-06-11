@@ -28,6 +28,11 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 * [Safari Books Online](https://www.safaribooksonline.com/) — get technical books on a subscription
 * [Intercom](https://www.intercom.com/books) — read free books from the spiking startup
 
+### Skills
+
+* [How to Read a Book](https://www.farnamstreetblog.com/how-to-read-a-book/) — advance from elementary to inspectional, analytical, or syntopical reading
+* [Ulysses](https://www.ulyssesapp.com/) — take notes and save ideas as you read
+
 
 ###### 2: Define 
 
