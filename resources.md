@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) has a few things you will need. Other tools and readings that will help your process are below!
+Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) has a few things you will want. Other tools and readings that will help your process are below!
 
 ###### 1: Read
 
