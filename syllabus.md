@@ -17,8 +17,8 @@ Interaction designers enjoy an increasing number of tools, processes, philosophi
 Students will map and prototype a responsive web experience in low- and high-fidelity, working with a partner as either the UX lead or the UI lead and collaborating on user testing. The five-week class will cover the unique major principles of interaction design:
  
 Week 1: **Audience** — respect, responsibility, transparency, context, outreach  
-Week 2: **Aesthetics** — emotion, personality, hierarchy, readability, usability, memory  
-Week 3: **Architecture** — autonomy, navigation, patterns, systems, affordances, signifiers  
+Week 2: **Architecture** — autonomy, navigation, patterns, systems, affordances, signifiers  
+Week 3: **Aesthetics** — emotion, personality, hierarchy, readability, usability, memory  
 Week 4: **States** — defaults, locations, history, expectations, feedback, accessibility  
 Week 5: **Critique** — objectivity, subjectivity, framing, phrasing, metrics  
 
@@ -76,7 +76,7 @@ Please download and create accounts on these apps before the first class:
  
 Please bring sketching materials to every class (pencil, pen, marker, paper)
 
-### Recommended Tools
+### Optional Tools
 * [UX Wireflows](https://ui8.net/products/ux-kits-ui-wireflows) kit ($38)
 * [UX Power Tools](https://www.uxpower.tools/) kit ($80, but use [my link for 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
 
