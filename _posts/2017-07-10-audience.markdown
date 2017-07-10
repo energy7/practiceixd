@@ -8,10 +8,10 @@ visible: 1
 
 ## Agenda
 
-6:00 Introductions and expectations
-6:30 Lecture: User-centered design
-6:50 Workshop: Content audit, user flows, journey map
-7:30 Lecture: Touchscreen design, usability
+6:00 Introductions and expectations  
+6:30 Lecture: User-centered design  
+6:50 Workshop: Content audit, user flows, journey map  
+7:30 Lecture: Touchscreen design, usability  
 7:50 Workshop: Paper prototype, usability testing
 
 ## Assignments
