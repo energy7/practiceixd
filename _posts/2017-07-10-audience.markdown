@@ -16,9 +16,12 @@ visible: 1
 
 ## Assignments
 
-1. **Read** [“Why Onboarding is the Most Crucial Part of Your Growth Strategy”](https://news.greylock.com/why-onboarding-is-the-most-crucial-part-of-your-growth-strategy-8f9ad3ec8d5e) by Casey Winters — What is Tech Solidarity’s frequency target? What could be their key action? (20 minutes)
-2. **Make** a journey map for your persona — What experience do you want to create for them? (30-60 minutes)
-3. **Make** a POP prototype  — How do you create this experience on a small handheld device? (30-60 minutes)
-4. **Test** usability with 5 users — What are *qualified* users teaching you as they use your design? (60-90 minutes)
+1. **Find & Read** The notes from the very first Tech Solidarity meeting — What are the most interesting parts? (20 minutes)
+2. **Read** [“Why Onboarding is the Most Crucial Part of Your Growth Strategy”](https://news.greylock.com/why-onboarding-is-the-most-crucial-part-of-your-growth-strategy-8f9ad3ec8d5e) by Casey Winters — What is Tech Solidarity’s frequency target? What could be their key action? (20 minutes)
+3. **Make** a journey map for your persona — What experience do you want to create for them? (30-60 minutes)
+4. **Make** a POP prototype  — How do you create this experience on a small handheld device? (30-60 minutes)
+5. **Test** usability with 5 users — What are *qualified* users teaching you as they use your design? (60-90 minutes)
 
-Submit to [https://goo.gl/forms/XmDBW8ntdfQDbhxw2](https://goo.gl/forms/XmDBW8ntdfQDbhxw2) before noon on Monday July 17!
+Submit to [https://goo.gl/forms/XmDBW8ntdfQDbhxw2](https://goo.gl/forms/XmDBW8ntdfQDbhxw2) before **noon** on Monday July 17!
+
+Slides are in the Google Drive if you'd like to review them.
