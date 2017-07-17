@@ -8,13 +8,13 @@ visible: 1
 
 ## Agenda
 
-6:00 Review usability testing, usability 
-6:15 Lecture: Information architecture, modular design
-6:30 Workshop: Site maps, navigation 
-7:00 Lecture: Modules
-7:15 Workshop: Codepen test 
-7:30 Lecture: Responsive web design, modes, hierarchy 
-8:00 Workshop: Desktop prototype, usability testing
+6:00 Review usability testing, usability  
+6:15 Lecture: Information architecture, modular design  
+6:30 Workshop: Site maps, navigation   
+7:00 Lecture: Modules  
+7:15 Workshop: Codepen test  
+7:30 Lecture: Responsive web design, modes, hierarchy  
+8:00 Workshop: Desktop prototype, usability testing  
 
 ## Assignments
 
