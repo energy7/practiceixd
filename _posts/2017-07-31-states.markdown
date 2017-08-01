@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 4: States"
+date:   2017-07-31 18:00:00 -0400
+categories: lecture homework
+visible: 1
+---
+
+## Agenda
+
+6:00 Design refinements, critique guidelines  
+6:30 Pin-up critique  
+7:15 Lecture: States, accessibility, inclusive design  
+7:30 Workshop: Inclusive design   
+7:45 Lecture: Microinteractions, presentation guidelines  
+8:00 Workshop: Interaction design
+
+## Assignments
+
+1. **Read/skim** *Microinteractions* — What are the microinteractions within your flow? What is a Signature Moment you could have? (90-120 mins) 
+2. **Make** mobile and laptop designs for the remaining screens in your main flow (60-120 mins)
+3. **Test** your two prototypes with 3+ users (30-60 mins)
+4. **Practice** your presentation!
+
+Submit to [https://goo.gl/forms/GRvJSb4FjnhHpYG02](https://goo.gl/forms/GRvJSb4FjnhHpYG02) before **5pm** on Monday August 7!
+
+Slides are in the Google Drive if you'd like to review them.
