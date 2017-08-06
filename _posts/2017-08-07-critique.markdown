@@ -16,7 +16,7 @@ visible: 1
 7:30  Nica & Caine  
 7:45  So Yeon & John  
 8:00  Susie & Liam  
-8:15  Yueying	 
+8:15  Yueying	  
 8:30  End-of-class survey and image upload
 
 ## Assignments
