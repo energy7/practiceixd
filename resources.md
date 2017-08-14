@@ -6,8 +6,15 @@ permalink: /resources/
 
 Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) has a few things you will want, including [the project brief](http://bit.ly/practice-ixd-brief). Discuss things in the [class Slack](http://sva-ixd.slack.com). Other tools and readings that will help your process are below!
 
-###### 1: Read
+###### 1: Research
 
+### Users
+
+* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
+* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
+* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
+* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
+* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
 
 ### Articles
 * [David Cole](http://davidcole.me/) — Director of Design at Quora  
@@ -36,13 +43,11 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 
 ###### 2: Define 
 
-### Users
 
-* [User Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=uxdesignweekly) — consider user-centered work for each phase
-* [Remote Research](http://remoteresear.ch/tools) — compare many tools and articles 
-* [Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/inclusive) — browse Microsoft Design's manual, videos, case studies, and activity cards
-* [Google Forms](https://www.google.com/forms/about/) — make simple, clean surveys
-* [Cassette](http://www.cassette.design/) — record, transcribe, and bookmark key moments in user interviews
+### Concept Models
+
+* [How to Make a Concept Model](http://eleganthack.com/how-to-make-a-concept-model/) — get the big picture clear first
+
 
 ### Content
 
