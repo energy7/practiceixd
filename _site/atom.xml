@@ -4,13 +4,26 @@
  <title>The Practice of IxD</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-05-28T18:15:39-04:00</updated>
+ <updated>2018-05-28T18:17:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Get Ready!</title>
+   <link href="http://localhost:4000/lecture/homework/2018/05/28/get-ready.html"/>
+   <updated>2018-05-28T08:28:59-04:00</updated>
+   <id>http://localhost:4000/lecture/homework/2018/05/28/get-ready</id>
+   <content type="html">&lt;ol&gt;
+  &lt;li&gt;Please fill out &lt;a href=&quot;https://goo.gl/forms/h2Eny65DtqnV1K5E3&quot;&gt;this quick Google Form&lt;/a&gt; no later than July 8th. You’ll be working with a partner in this class and I want to make it as easy as possible for you to find a like-minded one.&lt;/li&gt;
+  &lt;li&gt;Be ready to discuss your answers to the questions in the form.&lt;/li&gt;
+  &lt;li&gt;Re-read &lt;a href=&quot;/syllabus&quot;&gt;the syllabus&lt;/a&gt; and show up to each class with sketching supplies (pencil/pen and paper/sketchbook).&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
 
 </feed>

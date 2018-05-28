@@ -17,7 +17,7 @@
 title: The Practice of IxD
 email: eh@ericaheinz.com
 description: > # this means to ignore newlines until "baseurl:"
-  SVA Summer Intensive 2017
+  SVA Summer Intensive 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://energy7.github.io/practiceixd" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericaheinz

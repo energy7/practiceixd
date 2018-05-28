@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get Ready!"
-date:   2018-05-28 21:28:59 -0400
+date:   2018-05-28 08:28:59 -0400
 categories: lecture homework
 visible: 1
 ---
