@@ -4,11 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-SVA SUMMER INTENSIVE 2017 
+SVA SUMMER INTENSIVE 2018 
 
 ###### The Practice of IxD 
 
-Mondays, 6:00–8:50 PM, July 10 – August 7
+Mondays, 6:00–8:50 PM, July 9 – August 6
 
 ## Course Description
  
@@ -19,7 +19,7 @@ Students will map and prototype a responsive web experience in low- and high-fid
 Week 1: **Audience** — respect, responsibility, transparency, context, outreach  
 Week 2: **Architecture** — autonomy, navigation, patterns, systems, affordances, signifiers  
 Week 3: **Aesthetics** — emotion, personality, hierarchy, readability, usability, memory  
-Week 4: **States** — defaults, locations, history, expectations, feedback, accessibility  
+Week 4: **Accommodations** — defaults, states, history, expectations, feedback, accessibility  
 Week 5: **Critique** — objectivity, subjectivity, framing, phrasing, metrics  
 
 ## Learning Objectives
@@ -37,7 +37,7 @@ They will create:
  
 * Concepts for a responsive web experience
 * Low-fi mobile and desktop prototypes
-* Site maps, mood boards, and element collages
+* Site maps and mood boards
 * Hi-fi mobile and desktop prototypes
 
 ## Grading
@@ -46,10 +46,8 @@ They will create:
 30% homework and reading  
 40% final critique  
  
-The project for the class is to design an onboarding flow for [Tech Solidarity](https://techsolidarity.org), a grassroots group whose goal is to better connect tech workers with the communities they live in. You and a partner will work to create a responsive experience that serves and builds their community.
- 
-(If you volunteer with another organization and would like to design for that group instead, that is a possibility. Email me before the first class.)
- 
+The project for this class is to design a key experience for a valuable creative site (to be announced the first day of class). You and a partner will work together as UX Lead and UI Lead, sketching and testing and revising a responsive design at increasing levels of fidelity.
+  
 This is a pass/fail course. Students who pass will: 
 * Present usable, readable, enjoyable designs that serve the intended audience
 * Demonstrate an understanding of web hierarchy, aesthetics, and behavior
@@ -65,20 +63,19 @@ Final critiques will be roughly 10-15 minutes for each group to present and rece
  
 
 ## Tools & Resources
-Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
+Our [class drive](https://drive.google.com/drive/folders/1uD-o-Dq8QXwr5yvmKo48BKYhnwNecKG4?usp=sharing) contains a Resources folder with the recommended tools and reading. If you pursue the field, please purchase them to support their creators. They’re all things I reuse.
 
 ### Required Tools
 Please download and create accounts on these apps before the first class:
 * [Sketch](https://www.sketchapp.com/) ($99, click Education to get 50% off if you submit your student ID)
 * [POP by Marvel](https://marvelapp.com/pop/) (free, get the iPhone or Android app and install the [Sketch plugin](https://marvelapp.com/prototype-with-sketch/))
 * [Google Suite](https://www.google.com/) (provided by SVA) — for diagrams, team folders, individual folders, backups
-* [Slack](https://slack.com/) (provided by SVA) — for group chat 
  
-Please bring sketching materials to every class (pencil, pen, marker, paper)
+Please bring sketching materials to every class:  
+* sketchbook (I recommend Muji or other [dot grid sketchbooks](https://www.amazon.com/dp/B0716CFVHQ/)) or loose letter paper
+* pencil or pen for sketching ideas
+* (I will provide sticky notes and markers as needed)
 
-### Optional Tools
-* [UX Wireflows](https://ui8.net/products/ux-kits-ui-wireflows) kit ($38)
-* [UX Power Tools](https://www.uxpower.tools/) kit ($80, but use [my link for 50% off](https://gum.co/uxpt-bundle/skillshare-heinz))
 
 ### Required Reading
 There are two copies of these books in the SVA library if you prefer to read them there.

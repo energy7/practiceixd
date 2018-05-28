@@ -44,7 +44,7 @@ Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MG
 ###### 2: Define 
 
 
-### Concept Models
+### Concept Model
 
 * [How to Make a Concept Model](http://eleganthack.com/how-to-make-a-concept-model/) — get the big picture clear first
 
