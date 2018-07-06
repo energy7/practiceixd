@@ -20,7 +20,7 @@ Week 1: **Audience** — respect, responsibility, transparency, context, outreac
 Week 2: **Architecture** — autonomy, navigation, patterns, systems, affordances, signifiers  
 Week 3: **Aesthetics** — emotion, personality, hierarchy, readability, usability, memory  
 Week 4: **Accommodations** — defaults, states, history, expectations, feedback, accessibility  
-Week 5: **Critique** — objectivity, subjectivity, framing, phrasing, metrics  
+Week 5: **Assessment** — objectivity, subjectivity, framing, phrasing, metrics  
 
 ## Learning Objectives
  
