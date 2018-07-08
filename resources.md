@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Our [class drive](https://drive.google.com/drive/folders/0B2Z6ydcCAmjjMWFYR0h3MGdIeTQ?usp=sharing) has a few things you will want, including [the project brief](http://bit.ly/practice-ixd-brief). Discuss things in the [class Slack](http://sva-ixd.slack.com). Other tools and readings that will help your process are below!
+Our [class drive](https://drive.google.com/drive/folders/1uD-o-Dq8QXwr5yvmKo48BKYhnwNecKG4?usp=sharing) has a few things you will want, including [the project brief](http://bit.ly/practice-ixd-brief) and the [personas](https://drive.google.com/open?id=10CPo9Fg-bHVCZvcnqMgUQmnAZ_Gbwbs_). Discuss things in the [class Slack](http://sva-ixd.slack.com). Other tools and readings that will help your process are below!
 
 ###### 1: Research
 
