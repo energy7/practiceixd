@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Get Ready!"
+date:   2018-07-09 08:28:59 -0400
+categories: lecture homework
+visible: 1
+---
+
+Please submit your prototype and findings (even if it's incomplete) by *5pm on Sunday* so I have time to review it before class.
+
+1. Test your Marvel prototype with 3+ QUALIFIED users. Watch the ["How to prototype on paper with Marvel for iPhone and iPad"](https://help.marvelapp.com/hc/en-us) help video if you need tips on setting it up.  
+2. Submit your findings and a link to your prototype to [the Google form](https://goo.gl/forms/QOfK2pvolYy5lLx03)  
+3. (Optional) Read [“The Web's Grain”](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero. What does designing for the web’s grain mean to you?  
+4. Watch Lecture #2 (will be posted here on Weds) — same password as before. Jot down any questions.  
