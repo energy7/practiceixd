@@ -6,7 +6,7 @@ categories: lecture homework
 visible: 1
 ---
 
-Please submit your prototype and findings (even if it's incomplete) by *5pm on Sunday* so I have time to review it before class.
+Please submit your prototype and findings (even if it's incomplete) by *5pm on Sunday* so I have time to review it before class. Re-read [the project brief](https://docs.google.com/document/d/1LY8jOjdAFbNZywgRUNT113QbvzQ0QwzSc-v8tnWd3lg/edit?usp=sharing) and the [personas](https://drive.google.com/file/d/10CPo9Fg-bHVCZvcnqMgUQmnAZ_Gbwbs_/view?usp=sharing) as needed.
 
 1. Test your Marvel prototype with 3+ QUALIFIED users. Watch the ["How to prototype on paper with Marvel for iPhone and iPad"](https://help.marvelapp.com/hc/en-us) help video if you need tips on setting it up.  
 2. Submit your findings and a link to your prototype to [the Google form](https://goo.gl/forms/QOfK2pvolYy5lLx03)  
