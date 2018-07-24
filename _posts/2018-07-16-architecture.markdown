@@ -11,4 +11,4 @@ Please submit your prototype and findings (even if they're incomplete) by *5pm o
 1. Test your Marvel prototype with 3+ qualified users.   
 2. Submit your findings and a link to your prototype to [the Google form](https://goo.gl/forms/43ohWVo6W0M6edrJ3) (by 5pm Sunday)
 3. Read *Designing for Emotion* (Ch 1-3, ideally all) — Think about what celebrity might you pick to represent Wikipedia, and what brand traits. We'll make a brand strategy in class.
-4. Watch Lecture #3: Aesthetics (will be posted here tomorrow) — same password as before. Jot down any questions.  
+4. Watch [Lecture #3: Aesthetics](https://vimeo.com/ericaheinz/ixd2018-3) — same password as before. Jot down any questions.  
